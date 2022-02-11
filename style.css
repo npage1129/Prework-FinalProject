@@ -1,0 +1,30 @@
+h1{
+   
+   font-family: "Papyrus", "Copperplate", fantasy;
+   font-size: xxx-large;
+   text-align:center;
+   font-weight:bolder;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h2{
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align:center;
+    font-weight: bolder
+}
+ol{
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align:center;
+    font-weight: bold
+}
+body{
+    background-color: rgb(127, 150, 255);
+}
+img {
+    border: 5px solid rgb(247, 243, 243);
+  }
+  
